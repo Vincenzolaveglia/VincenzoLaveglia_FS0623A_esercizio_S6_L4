@@ -1,0 +1,24 @@
+@mixin stileBottoni {
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+@mixin paddingPagina {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@mixin avatar {
+    width: 50px; 
+}
+
+@mixin h3Margin {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+@mixin link {
+    text-decoration: none;
+    color: black;
+}
